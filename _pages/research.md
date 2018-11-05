@@ -5,7 +5,7 @@ title: "Research and Project Tags"
 comments: false
 author_profile: true
 header:
-  image: "/images/lab_back_crop.jpg"
+  image: "/images/crystals_crop.jpg"
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
