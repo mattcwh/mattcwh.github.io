@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 title                    : "Matthew Chung"
 title_separator          : "-"
 name                     : "Matthew Chung"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Chung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "BioMedHealthData Science Portfolio"
   location         : "London, UK; Hong Kong, HK"
   email            :
