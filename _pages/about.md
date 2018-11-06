@@ -5,7 +5,7 @@ header:
   image: "/images/banner_crop.jpg"
 ---
 
-# Wai Heng Chung alias Matthew
+## Wai Heng Chung alias Matthew
 I'm a bio-med-health-data scientist, yes, the definition is blurry, but knowledge has no boundaries. I'm reading a Masters in Health Data Science at UCL to complete that equation. My career aspiration, brief and broadly, is to take or create data-driven ideas for personalised health and precision medicine from theory to practice by translational bioinformatics-centered research and more importantly, cross-disciplinary collaboration. That is, I enjoy interaction with people having alternative viewpoints, different specialties, and yet similar minds to "talk big" even when we often need to start small. In an attempt to summarise my academic interests in a few terms, the following would come up: genetics and omics, biomolecules, statistics, machine learning, science communication, medical technology, health informatics, among others. This is a website to describe myself, document my research works and share the experience I had.
 
 ### Experience
