@@ -6,7 +6,7 @@ header:
 ---
 
 # Wai Heng Chung alias Matthew
-I'm a bio-med-health-data scientist, yes, the definition is blurry, but knowledge has no boundaries. I'm reading a Masters in Health Data Science at UCL to complete that equation. My career aspiration, brief and broadly, is to take or create data-driven ideas for personalised health and precision medicine from theory to practice by translational bioinformatics-centered research and more importantly, cross-disciplinary collaboration. That is, I enjoy interaction with people having alternative viewpoints, different specialties, and yet similar minds to "talk big" even when we often need to start small. In an attempt to summarise my academic interests in a few terms, the following would come up: genetics and omics, biomolecules, statistics, machine learning, science communication, medical technology, health informatics, among others. This is a website describe myself, document my research works and share the experience I had.
+I'm a bio-med-health-data scientist, yes, the definition is blurry, but knowledge has no boundaries. I'm reading a Masters in Health Data Science at UCL to complete that equation. My career aspiration, brief and broadly, is to take or create data-driven ideas for personalised health and precision medicine from theory to practice by translational bioinformatics-centered research and more importantly, cross-disciplinary collaboration. That is, I enjoy interaction with people having alternative viewpoints, different specialties, and yet similar minds to "talk big" even when we often need to start small. In an attempt to summarise my academic interests in a few terms, the following would come up: genetics and omics, biomolecules, statistics, machine learning, science communication, medical technology, health informatics, among others. This is a website to describe myself, document my research works and share the experience I had.
 
 ### Experience
 + **AI in Healthcare Research** - UCL and UCLH - 2018-present - *Researcher* - Pilot projects to explore AI/machine learning solutions to existing medical problems, jointly coordinated by UCL and the UCLH Research Hospital Initiative.
@@ -18,7 +18,7 @@ For more details about my research projects, please visit the "Research" page.
 
 ### Qualifications
 + **MSc** Health Data Science - Institute of Health Informatics, University College London, University of London - 2018-2019 (Expected)
-+ **MPhil** Structural and Molecular Biology - School of Biomedical Sciences, University of Hong Kong - 2016-2018 - Supervised by Thesis titled "A Structural Approach to Protein Intrinsic Versatility – the Tale of Succinyllysine Reader GAS41 and Palmitoyllysine Eraser SIRT3"
++ **MPhil** Structural and Molecular Biology - School of Biomedical Sciences, University of Hong Kong - 2016-2018 - Thesis titled "A Structural Approach to Protein Intrinsic Versatility – the Tale of Succinyllysine Reader GAS41 and Palmitoyllysine Eraser SIRT3"
 + **BBiomedSc** in Biomedical Sciences, Minor in Genetics and Genomics - School of Biomedical Sciences, University of Hong Kong - 2012-2016
 
 ### Languages
