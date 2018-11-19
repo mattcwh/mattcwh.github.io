@@ -12,7 +12,7 @@ With careful management and reporting of such data to avoid violation of respect
 
 Personally, it would be interesting to explore the public perception of genomic technologies. This is also a way to practice programming.
 
-##References
+## References
 [Twitter as a Tool for Health Research: A Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5308155/)
 [Quantifying Mental Health Signals in Twitter](https://www.cs.jhu.edu/~mdredze/publications/2014_acl_mental_health.pdf)
 [Characterisation of Mental Health Conditions in Social Media using Informed Deep Learning](https://www.nature.com/articles/srep45141)

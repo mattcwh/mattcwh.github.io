@@ -14,7 +14,7 @@ I'm a bio-med-health-data scientist, yes, the definition is blurry, but knowledg
 + **Influenza Research** - HKU - 2014 - *Intern* - Supervised by Dr Hui-Ling Yen and her team, I cloned and produced soluble haemagglutinin and neuraminidase from pandemic influenza strain A/VN/1203/04 H5N1 using a human cell expression system, validated their function against virus-bound variants and compared activity of wild-type and mild-type haemagglutinin.
 + **Virology Research** - HKU - 2014 - *Intern* - Participated in HIV-CMV studies by assisting RNA extraction, cell culture, infection experiment design.
 
-For more details about my research projects, please visit the "Research" page.
+For more details about my research projects, please visit the ["Research"](https://mattcwh.github.io/research/) page.
 
 ### Qualifications
 + **MSc** Health Data Science - Institute of Health Informatics, University College London, University of London - 2018-2019 (Expected)
