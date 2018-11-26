@@ -12,6 +12,8 @@ With careful management and reporting of such data to avoid violation of respect
 
 Personally, it would be interesting to explore the public perception of genomic technologies. This is also a way to practice programming.
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C-HDtmA4DP-NZ0tKs0guEUT6CbnG6m-NSwk7fOWci-I&font=Default&lang=en&initial_zoom=1&start_at_slide=1&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 ## References
 [Twitter as a Tool for Health Research: A Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5308155/)
 [Quantifying Mental Health Signals in Twitter](https://www.cs.jhu.edu/~mdredze/publications/2014_acl_mental_health.pdf)
