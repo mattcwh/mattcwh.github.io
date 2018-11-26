@@ -22,12 +22,15 @@ A list of author keywords from over 2k publications related to genetic testing i
 
 It may be interesting to look at reactions to key events of the DTC GT market within the Twitter community. This will require Twitter's Premium API to access records from the past and an evaluation of specific periods that are worth analysing. Annual Black Friday and Cyber Monday may also be suitable for trend analysis.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C-HDtmA4DP-NZ0tKs0guEUT6CbnG6m-NSwk7fOWci-I&font=Default&lang=en&initial_zoom=1&height=650' width='100%' height='400' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1C-HDtmA4DP-NZ0tKs0guEUT6CbnG6m-NSwk7fOWci-I&font=Default&lang=en&initial_zoom=1&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## References
 [Twitter as a Tool for Health Research: A Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5308155/)
+
 [Quantifying Mental Health Signals in Twitter](https://www.cs.jhu.edu/~mdredze/publications/2014_acl_mental_health.pdf)
+
 [Characterisation of Mental Health Conditions in Social Media using Informed Deep Learning](https://www.nature.com/articles/srep45141)
+
 ...and much more
 
 **To be updated.**
