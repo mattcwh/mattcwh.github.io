@@ -5,8 +5,11 @@ header:
   image: "/images/banner_crop.jpg"
 ---
 
-## Wai Heng Chung alias Matthew
-I'm a bio-med-health-data scientist, yes, the definition is blurry, but knowledge has no boundaries. I'm reading a Masters in Health Data Science at UCL to complete that equation. My career aspiration, brief and broadly, is to take or create data-driven ideas for personalised health and precision medicine from theory to practice by translational bioinformatics-centered research and more importantly, cross-disciplinary collaboration. That is, I enjoy interaction with people having alternative viewpoints, different specialties, and yet similar minds to "talk big" even when we often need to start small. In an attempt to summarise my academic interests in a few terms, the following would come up: genetics and omics, biomolecules, statistics, machine learning, science communication, medical technology, health informatics, among others. This is a website to describe myself, document my research works and share the experience I had.
+## Name - MCWH
+Matthew will do, unless it's the Cantonese pronunciation of the de-romanised Chinese characters "Chung Wai Heng". No reason to confuse yourself by attempting to painfully spit out some gibberish that's supposed to represent me.
+
+## Intro
+In general, I'm a biomedical scientist with some computational literacy. I'm reading a Masters in Health Data Science at UCL, and will begin my Wellcome Trust PhD at KCL this year. I'm interested in integrating multiple types of biomedical information with an aim of improving personalised healthcare and precision medicine, which is called "translational bioinformatics" by some. I find motivation and enthusiasm in entrepreneurial and translational ideas stemming from science. While my interests are primarily in Omics research, I'm also curious about biomolecules, statistics, machine learning, science communication, medical technology and health informatics among others. This is a personal site to write about myself, my research works and perhaps some valuable experience I had.
 
 ### Experience
 + **AI in Healthcare Research** - UCL and UCLH - 2018-present - *Researcher* - Pilot projects to explore AI/machine learning solutions to existing medical problems, jointly coordinated by UCL and the UCLH Research Hospital Initiative.

@@ -19,7 +19,7 @@ locale                   : "en-GB"
 title                    : "Matthew Chung"
 title_separator          : "-"
 name                     : "Matthew Chung"
-description              : "BioMedHealthData Science Portfolio"
+description              : "Personal Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Chung"
-  avatar           : "/images/bio-photo.jpg"
-  bio              : "BBiomedSc(HKU), MPhil(HKU), MSc(UCL), Wellcome Trust PhD"
+  avatar           : "/images/MatthewChung_2.jpg"
+  bio              : "Wellcome Trust PhD, MSc(UCL), MPhil(HKU), BBiomedSc(HKU)"
   location         : "London / Hong Kong"
   email            :
   links:
