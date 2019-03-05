@@ -1,17 +1,17 @@
 ---
-title: "Social Media Informatics on Health and MedTechs"
+title: "Science of Stories - Social Media Informatics on Genomic Technologies"
 date: 2018-11-05
 tags: [genomics and omics, data science, health informatics]
 header:
   image: "/images/pipette_sunset_crop.jpg"
-excerpt: "What do people think about genomic technologies? What aspects of diabetes do people talk about?"
+excerpt: "Are DTC GT tweets with user stories qualitatively/quantitatively different from other DTC tweets?"
 ---
 ## Background
 Social media is a place for information and ideas to disseminate. Some of these data can now be accessed through free and publicly available APIs. Twitter's standard API, for example, provides access to 1% of total data with multiple extractable features about the user and the tweets including images, demographics and tweet contents. Similar data from Reddit retrieved through its API is also publicly accessible.
 
 With careful management and reporting of such data to avoid violation of respective terms and conditions, many exploratory analyses can be performed to address questions related to health informatics and public perception of new medical technologies. Studies can also be scaled up using the paid Twitter premium API to access remaining data. Subjecting to the questions asked, analyses can be performed with a range of methods from basic statistics to deep learning.
 
-Personally, it would be interesting to explore the public perception of genomic technologies. This is also a way to practice programming.
+It would be interesting to explore the public perception of genomic technologies.
 
 ## Progress Report
 Over 70k tweets related to genetic testing and related companies streamed during Black Friday weekend and Cyber Monday. Further analysis will follow.

@@ -6,7 +6,7 @@ header:
 ---
 
 ## Name - MCWH
-Matthew will do, unless it's the Cantonese pronunciation of the de-romanised Chinese characters "Chung Wai Heng". No reason to confuse yourself by attempting to painfully spit out some gibberish that's supposed to represent me.
+Matthew will do, unless it's the Cantonese pronunciation of the de-romanised Chinese characters "Chung Wai Heng". No reason to confuse yourself by painfully attempting to spit out some gibberish that's supposed to represent me.
 
 ## Intro
 In general, I'm a biomedical scientist with some computational literacy. I'm reading a Masters in Health Data Science at UCL, and will begin my Wellcome Trust PhD at KCL this year. I'm interested in integrating multiple types of biomedical information with an aim of improving personalised healthcare and precision medicine, which is called "translational bioinformatics" by some. I find motivation and enthusiasm in entrepreneurial and translational ideas stemming from science. While my interests are primarily in Omics research, I'm also curious about biomolecules, statistics, machine learning, science communication, medical technology and health informatics among others. This is a personal site to write about myself, my research works and perhaps some valuable experience I had.
