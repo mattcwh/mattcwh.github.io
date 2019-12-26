@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /categories/blogposts/
+permalink: /blogposts/
 title: "Personal Blog Posts"
 taxonomy: blogposts
 comments: false
