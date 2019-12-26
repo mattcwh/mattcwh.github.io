@@ -1,7 +1,8 @@
 ---
-layout: archive
-permalink: /blogposts/
+layout: category
+permalink: /categories/blogposts/
 title: "Personal Blog Posts"
+taxonomy: blogposts
 comments: false
 author_profile: true
 header:
