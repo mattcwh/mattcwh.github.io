@@ -1,7 +1,7 @@
 ---
 title: "Personal Blog Posts"
 layout: collection
-permalink: https://mattcwh.github.io/blogposts/
+permalink: /blogposts/
 collection: blogposts
 entries_layout: grid
 author_profile: true
