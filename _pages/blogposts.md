@@ -1,8 +1,9 @@
 ---
+title: "Personal Blog Posts"
 layout: collection
 permalink: /blogposts/
-title: "Personal Blog Posts"
 collection: blogposts
+entries_layout: grid
 author_profile: true
 header:
   image: "/images/banner_crop.jpg"
