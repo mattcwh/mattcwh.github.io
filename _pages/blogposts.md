@@ -1,12 +1,10 @@
 ---
-title: "Personal Blog Posts"
+title: "Blogposts"
 layout: collection
 permalink: /blogposts/
 collection: blogposts
 entries_layout: grid
-author_profile: true
+classes: wide
 header:
   image: "/images/banner_crop.jpg"
 ---
-
-Sample document listing for the collection `_blogposts`.

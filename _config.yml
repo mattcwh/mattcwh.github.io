@@ -301,3 +301,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _blogposts
+  - scope:
+      path: ""
+      type: blogposts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+# Collections
+collections:
+  blogposts:
+    output: true
+    permalink: /:collection/:path/
