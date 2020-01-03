@@ -3,8 +3,7 @@ layout: collection
 permalink: /blogposts/
 title: "Personal Blog Posts"
 collection: blogposts
-comments: false
-author_profile: true
+author_profile: false
 header:
   image: "/images/banner_crop.jpg"
 ---
