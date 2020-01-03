@@ -7,7 +7,7 @@ main:
   - title: "Blogposts"
     url: https://mattcwh.github.io/blogposts/
   - title: "Collections"
-    url: https://mattcwh.github.io/collection-archive/
+    url: /collection-archive/
   
 # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
