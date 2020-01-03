@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: https://mattcwh.github.io/about/
   - title: "Research"
-    url: /research/
+    url: https://mattcwh.github.io/research/
   - title: "Blogposts"
-    url: /blogposts/
+    url: https://mattcwh.github.io/blogposts/
+  - title: "Collections"
+    url: /collection-archive/
   
 # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
