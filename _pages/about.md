@@ -19,7 +19,7 @@ Having All Black as my preferred attire is a little bit more of a rational choic
 
 ## Specific Knowledge, Nature and Obsession
 
-Career decisions define one's life, that's who you want to and will become. Some very good advice from [Naval Ravikant](nav.al):
+Career decisions define one's life, that's who you want to and will become. Some very good advice from [Naval Ravikant](https://nav.al):
 + arm yourself with specific knowledge, which are usually highly creative or technical
 + but don't be too deliberate, or you'd spent your life and won't love it
 + follow your own obsession then keep an eye out for opportunities
