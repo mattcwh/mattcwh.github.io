@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/banner_crop.jpg"
+  image: "/images/cat-badger-crow.jpg"
 ---
 
 "What's your favourite animal?" I've got a few. Cats, curious, observant and quirky. Honey badgers, fearless and unwavering. Crows.
