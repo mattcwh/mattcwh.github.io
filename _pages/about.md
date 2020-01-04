@@ -15,7 +15,7 @@ Crows, the most intelligent birds. They exhibit high adaptability and behavioura
 
 Most crows are black. This may be results of nature's random draw, but if there's an evolutionary cause, the best guess is the ease of identifying individuals in common.
 
-Having All Black as my preferred attire is a little bit more of a rational choice. Matching the skin colour, visually slimming the body shape and keeping warm are some of the practical features. As an easy choice, All Black is humble yet professional. The minimalistic nature frees up the mind to focus on other parts of life. A bit of colourful garnish becomes significantly more profound, perfect for special occasions. The hues of life need not be printed on pieces of loosely attaching clothes.
+Having All Black as my preferred attire is a little bit more of a rational choice. Matching the skin colour, visually slimming the body shape and keeping warm are some of the practical features. As an easy choice, All Black is humble yet professional. The **minimalist** nature frees up the mind to focus on other parts of life. A bit of colourful garnish becomes significantly more profound, perfect for special occasions. The hues of life need not be printed on pieces of loosely attaching clothes.
 
 ## Specific Knowledge, Nature and Obsession
 
@@ -25,13 +25,21 @@ Career decisions define one's life, that's who you want to and will become. Some
 + follow your own obsession then keep an eye out for opportunities
 + pick things where you're a natural and combine them
 
+There has been a lot of trials and errors, but it's converging:
 + data, extracted and analysed into information, modelled into knowledge
 + biology, complex and stochastic but can work wonders
-+ compassion
++ compassion, as a core motive at making decisions
 
-## A few more words
+## Healthily Stressed
+
+Science is a rigorous subject. Innovation requires perseverance and experiments are difficult and stressful. Competition is fierce and staying relevant is demanding. I can always use a splash of dopamine, endorphin and adrenaline:
+
++ regular exercise
 + creative art
 + travels and adventures
 + water sports, diving
 + cookery
++ lavender and chocolate
++ have a good laugh
 
+For myself, constantly having the right amount of stress, staying focused and productive, and being mindful, are crucial to my mental health.
