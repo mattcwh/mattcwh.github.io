@@ -2,44 +2,38 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/cat-badger-crow.jpg"
+  image: "/images/banner_crop.jpg"
 ---
 
-"What's your favourite animal?" I've got a few. Cats, curious, observant and quirky. Honey badgers, fearless and unwavering. Crows.
+## A very special island - Hong Kong
 
-## A Murder of Crows
+Hong Kong has a very special place in my heart. It's where I was born, grew up and educated. It's where most of my family and friends are. It's a place that never stops - people, traffic, lights, sounds, culture, coastline, weather, politics. The British (borrowed) and Japanese (WWII) turned the tiny fishing village into an international hub for finance and import-export, as inherited by the PRC. In Hong Kong, we trade space, willingly or not, for convenience and surrounding ourselves with people. We have spectacles you can't easily find elsewhere in the world - concrete forests that light up in regular vertical patterns, the densely packed neon in the night view of the Victoria Harbour, the lovely woodlands and beaches and islands right at our backyards, the clash of eastern and western colours and cuisine on streets lined with futuristic architectures among the antiques, the Cantonese noises and signs printed in traditional Chinese characters. I am proud of our people who risk their lives to defend our unique culture and values.
 
-Crows, the most intelligent birds. They exhibit high adaptability and behavioural flexibility, invading and thriving in non-native habitats. Crows have impressive long-reaching memory and are able to remember faces of both kind and hostile humans and react accordingly. They are capable of social learning by sharing information across the murder and observing neighbours' behaviour, and making group decisions. These black birds have outstanding problem-solving skills and can use tools to find food. So much for the little beings that loudly caw to declare their mighty presence. [Cornell, 2011](https://rspb.royalsocietypublishing.org/content/early/2011/06/20/rspb.2011.0957) [Marzluff, 2010](https://www.sciencedirect.com/science/article/pii/S0003347209005806)
+## On specific knowledge, nature and obsession
 
-## The Black Philosophy
-
-Most crows are black. This may be results of nature's random draw, but if there's an evolutionary cause, the best guess is the ease of identifying individuals in common.
-
-Having All Black as my preferred attire is a little bit more of a rational choice. Matching the skin colour, visually slimming the body shape and keeping warm are some of the practical features. As an easy choice, All Black is humble yet professional. The **minimalist** nature frees up the mind to focus on other parts of life. A bit of colourful garnish becomes significantly more profound, perfect for special occasions. The hues of life need not be printed on pieces of loosely attaching clothes.
-
-## Specific Knowledge, Nature and Obsession
-
-Career decisions define one's life, that's who you want to and will become. Some very good advice from [Naval Ravikant](https://nav.al):
+Career decisions define one's life, that's who you want to become and will become. Some very good advice from [Naval Ravikant](https://nav.al):
 + arm yourself with specific knowledge, which are usually highly creative or technical
 + but don't be too deliberate, or you'd spent your life and won't love it
 + follow your own obsession then keep an eye out for opportunities
 + pick things where you're a natural and combine them
 
-There has been a lot of trials and errors, but it's converging:
-+ data, extracted and analysed into information, modelled into knowledge
-+ biology, complex and stochastic but can work wonders
-+ compassion, as a core motive at making decisions
+After some trial-and-errors, this is what I realised:
++ I'm in love with biology and how the nature works
++ I enjoy solving puzzles at a computer
++ I'm amazed by the clever ways people perceive the world by building models from data
++ I still believe compassion should be at the core of what I do
 
 ## Healthily Stressed
 
-Science is a rigorous subject. Innovation requires perseverance and experiments are difficult and stressful. Competition is fierce and staying relevant is demanding. I can always use a splash of dopamine, endorphin and adrenaline:
+Here are my ways of managing my mental and physical health:
 
 + regular exercise
 + creative art
 + travels and adventures
 + water sports, diving
-+ cookery
++ cookery (top choice Japanese)
 + lavender and chocolate
 + have a good laugh
-
-For myself, constantly having the right amount of stress, staying focused and productive, and being mindful, are crucial to my mental health.
++ have the right amount of stress
++ stay focused and be productive at work
++ be mindful
