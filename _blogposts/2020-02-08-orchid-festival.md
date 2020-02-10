@@ -50,6 +50,7 @@ The amazing thing about orchids is that they come in so many different colours a
 <figure class="half">
     <a href="/images/orchid_festival_2020/IMG_20200208_144430.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_144430.jpg"></a>
     <a href="/images/orchid_festival_2020/IMG_20200208_142724.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_142724.jpg"></a>
+    <figcaption>On the left is a volcano.</figcaption>
 </figure>
 
 <figure class="half">
@@ -72,11 +73,7 @@ The amazing thing about orchids is that they come in so many different colours a
 <figure class="half">
     <a href="/images/orchid_festival_2020/IMG_20200208_144235.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_144235.jpg"></a>
     <a href="/images/orchid_festival_2020/IMG_20200208_144317.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_144317.jpg"></a>
-</figure>
-
-<figure class="half">
-    <a href="/images/orchid_festival_2020/IMG_20200208_144235.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_144235.jpg"></a>
-    <a href="/images/orchid_festival_2020/IMG_20200208_144317.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_144317.jpg"></a>
+    <figcaption>Orangutan on the left, long-nosed monkey on the right. ;)</figcaption>
 </figure>
 
 <figure>
@@ -94,6 +91,7 @@ The amazing thing about orchids is that they come in so many different colours a
 
 <figure>
     <img src="/images/orchid_festival_2020/IMG_20200208_144931.jpg">
+    <figcaption>These lanterns represent the Wallace line.</figcaption>
 </figure>
 
 <figure class="half">
@@ -170,6 +168,7 @@ The amazing thing about orchids is that they come in so many different colours a
 <figure class="half">
     <a href="/images/orchid_festival_2020/IMG_20200208_150528.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_150528.jpg"></a>
     <a href="/images/orchid_festival_2020/IMG_20200208_150541.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_150541.jpg"></a>
+    <figcaption>I like this one on the right.</figcaption>
 </figure>
 
 <figure class="half">
@@ -216,6 +215,7 @@ The amazing thing about orchids is that they come in so many different colours a
 
 <figure>
     <img src="/images/orchid_festival_2020/IMG_20200208_154049.jpg">
+    <figcaption>The Treetop Walkway.</figcaption>
 </figure>
 
 <figure>
