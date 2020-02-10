@@ -16,7 +16,7 @@ The amazing thing about orchids is that they come in so many different colours a
 
 <figure>
     <img src="/images/orchid_festival_2020/IMG_20200208_141711.jpg">
-    <figcaption>The exhibition took place in the Princess of Wales Conservatory where you can find a variety of exotic plants, particularly the succulent species.</figcaption>
+    <figcaption>The exhibition took place at the Princess of Wales Conservatory where you can find a variety of exotic plants, particularly the succulent species.</figcaption>
 </figure>
 
 <figure class="half">
