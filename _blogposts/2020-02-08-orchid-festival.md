@@ -128,7 +128,7 @@ The amazing thing about orchids is that they come in so many different colours a
 </figure>
 
 <figure class="half">
-    <a href="/images/orchid_festival_2020/IMG_20200208_145741.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_145741.jpg"></a>
+    <a href="/images/orchid_festival_2020/IMG_20200208_145747.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_145747.jpg"></a>
     <a href="/images/orchid_festival_2020/IMG_20200208_145800.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_145800.jpg"></a>
 </figure>
 
@@ -149,6 +149,7 @@ The amazing thing about orchids is that they come in so many different colours a
 
 <figure>
     <img src="/images/orchid_festival_2020/IMG_20200208_150045.jpg">
+    <figcaption>This is as big as my hand.</figcaption>
 </figure>
 
 <figure>
@@ -158,6 +159,7 @@ The amazing thing about orchids is that they come in so many different colours a
 <figure class="half">
     <a href="/images/orchid_festival_2020/IMG_20200208_150228.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_150228.jpg"></a>
     <a href="/images/orchid_festival_2020/IMG_20200208_150408.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_150408.jpg"></a>
+    <figcaption>Can you see the rhino?</figcaption>
 </figure>
 
 <figure class="half">
@@ -184,6 +186,7 @@ The amazing thing about orchids is that they come in so many different colours a
 <figure class="half">
     <a href="/images/orchid_festival_2020/IMG_20200208_150811.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_150811.jpg"></a>
     <a href="/images/orchid_festival_2020/IMG_20200208_150823.jpg"><img src="/images/orchid_festival_2020/IMG_20200208_150823.jpg"></a>
+    <figcaption>Aren't those bacon and fried eggs?.</figcaption>
 </figure>
 
 <figure class="half">
@@ -193,6 +196,7 @@ The amazing thing about orchids is that they come in so many different colours a
 
 <figure>
     <img src="/images/orchid_festival_2020/IMG_20200208_151153.jpg">
+    <figcaption>The tiny stars.</figcaption>
 </figure>
 
 <figure class="half">
