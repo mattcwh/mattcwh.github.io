@@ -1,36 +1,27 @@
-<!-- footer -->
-<footer class="py-4 bg-light border-top">
-  <div class="container">
-    <div class="row justify-content-between align-items-center">
-      <div class="col-lg-4 text-center text-lg-left mb-4 mb-lg-0">
-        <a href="{{ site.baseurl }}" class="d-block pb-3"><img src="{{ site.data.parameters.logo | relative_url }}" class="img-fluid" alt="{{ site.title }}"></a>
-      </div>
-      <div class="col-lg-4 text-center mb-4 mb-lg-0">
-        <ul class="list-inline mb-0">
-          {% for footer in site.data.parameters.menu.footer %}
-          <li class="list-inline-item"><a class="text-dark d-block p-2" href="{{ footer.url | relative_url }}">{{ footer.name }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="col-lg-4 text-lg-right text-center mb-4 mb-lg-0">
-        <ul class="list-inline social-icon mb-0">
-          {% for social in site.data.parameters.social %}
-          <li class="list-inline-item"><a href="{{ social.link | relative_url }}"><i class="{{ social.icon }}"></i></a></li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-    <div class="text-center mt-4">
-      <span>{{ site.data.parameters.copyright | markdownify }}</span>
-    </div>
-  </div>
-</footer>
-<!-- /footer -->
+{% assign locale = include.locale | default: site.locale %}
+{% unless site.atom_feed.hide %}
+  {% assign show_atom = true %}
+{% endunless %}
+{% if site.footer.links or show_atom %}
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[locale].follow_label }}</strong></li>
+    {% endif %}
 
-<!-- JS Plugins -->
-{% for js in site.data.plugins.js %}
-<script src="{{ js | relative_url }}"></script>
-{% endfor %}
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer{% if link.rel %} {{ link.rel }}{% endif %}"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label | escape_once | strip }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 
-<!-- Main Script -->
-<script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-square-rss" aria-hidden="true"></i> {{ site.data.ui-text[locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
+</div>
+{% endif %}
+
+<div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>. {{ site.data.ui-text[locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
