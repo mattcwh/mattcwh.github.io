@@ -1,44 +1,31 @@
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
 
-<!-- theme meta -->
-<meta name="theme-name" content="airspace-jekyll" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="{%if page.description%}{{page.description}}{%else%}{{site.description}}{%endif%}">
+  
+  <!-- theme meta -->
+  <meta name="theme-name" content="northendlab-jekyll" />
+  
+  {% if site.author %}
+  <meta name="author" content="{{ . }}">
+  {% endif %}
 
-<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+  {% for css in site.data.plugins.css %}
+  <link rel="stylesheet" href="{{ css | relative_url }}">
+  {% endfor %}
 
-<!-- CSS -->
-<link rel="stylesheet" href="{{ site.baseurl }}/css/owl.carousel.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/airspace.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/ionicons.min.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/animate.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/responsive.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css" />
+  <!-- Main Stylesheet -->
+  <link href="{{ '/assets/scss/style.css' | relative_url }}" rel="stylesheet">
 
-<!-- Js -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-<script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
-<script src="{{ site.baseurl }}/js/owl.carousel.min.js"></script>
-<script src="{{ site.baseurl }}/js/plugins.js"></script>
-<script src="{{ site.baseurl }}/js/min/waypoints.min.js"></script>
-<script src="{{ site.baseurl }}/js/jquery.counterup.js"></script>
+  <!--Favicon-->
+  <link rel="shortcut icon" href="{{ '/assets/images/favicon.png' | relative_url }} " type="image/x-icon">
+  <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }} " type="image/x-icon">
 
+  <!-- google-analytics -->
+  {% if site.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
 
-<script src="{{ site.baseurl }}/js/main.js"></script>
-
-<!--
-/*
- * Airspace
- * Ported to Jekyll by Andrew Lee
- * https://github.com/ndrewtl/airspace-jekyll
- * Designed and Developed by ThemeFisher
- * https://themefisher.com/
- *
- */
--->
+</head>
