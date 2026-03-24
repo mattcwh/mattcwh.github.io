@@ -1,18 +1,18 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "cv"
     url: https://mattcwh.github.io/cv/
-  - title: "Publications"
+  - title: "publications"
     url: https://mattcwh.github.io/publications/
-  - title: "Gallery"
+  - title: "gallery"
     url: https://mattcwh.github.io/gallery/
-  - title: "Science Blog"
+  - title: "science blog"
     url: https://mattcwh.github.io/science-blog/
-  - title: "Blog"
+  - title: "blog"
     url: https://mattcwh.github.io/blog/
-  - title: "Collections"
+  - title: "collections"
     url: https://mattcwh.github.io/collections/
   # - title: "Sample Posts"
   #   url: /year-archive/
