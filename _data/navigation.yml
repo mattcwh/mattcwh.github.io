@@ -20,3 +20,23 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+foo:
+  - title: "Parent Link 1"
+    # url: /parent-1-page-url/
+    children:
+        - title: "cv"
+          url: https://mattcwh.github.io/cv/
+        - title: "publications"
+          url: https://mattcwh.github.io/publications/
+        - title: "gallery"
+          url: https://mattcwh.github.io/gallery/
+        - title: "science blog"
+          url: https://mattcwh.github.io/science-blog/
+  - title: "Parent Link 2"
+    # url: /parent-2-page-url/
+    children:
+      - title: "blog"
+        url: https://mattcwh.github.io/blog/
+      - title: "collections"
+        url: https://mattcwh.github.io/collections/
