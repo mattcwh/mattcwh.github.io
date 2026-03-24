@@ -2,8 +2,18 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "cv"
+    url: https://mattcwh.github.io/cv/
+  - title: "Publications"
+    url: https://mattcwh.github.io/publications/
+  - title: "Gallery"
+    url: https://mattcwh.github.io/gallery/
+  - title: "Science Blog"
+    url: https://mattcwh.github.io/science-blog/
+  - title: "Blog"
+    url: https://mattcwh.github.io/blog/
+  - title: "Collections"
+    url: https://mattcwh.github.io/collections/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
