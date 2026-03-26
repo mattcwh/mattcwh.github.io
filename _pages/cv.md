@@ -16,12 +16,12 @@ toc: true
 ## Education
 
 |:--------|:--------|
-| 2020-2024  | PhD in Immunobiology & Bioinformatics<br><sub>King's College London</sub>   |
+| 2020-2024  | PhD Immunobiology & Bioinformatics<br><sub>King's College London</sub>   |
 | 2019-2020  | MRes Biomedical & Translational Science <br><sub>King's College London</sub>   |
 | 2022-2023  | Executive Education in Entrepreneurial Edge<br><sub>London Business School</sub> |
-| 2018-2019  | MSc in Health Data Science<br><sub>UCL</sub> |
-| 2016-2018  | MPhil in Structural Biology<br><sub>University of Hong Kong</sub> |
-| 2012-2016  | BSc in Biomedical Sciences<br><sub>University of Hong Kong</sub> |
+| 2018-2019  | MSc Health Data Science<br><sub>UCL</sub> |
+| 2016-2018  | MPhil Structural Biology<br><sub>University of Hong Kong</sub> |
+| 2012-2016  | BSc Biomedical Sciences<br><sub>University of Hong Kong</sub> |
 
 ## Awards
 
@@ -31,10 +31,10 @@ toc: true
 | 2019  | Wellcome Trust PhD Scholarhip (£200k)<br><sub>Wellcome Trust</sub>   |
 
 ## Skills
-`Multi-omics` `Imaging`
-`EHR` `Clinical data`
-`R` `Python` `SQL`
-`Nextflow` `Git` `AWS Cloud`
-`ML` `Statistical modelling`
-`Plotly/Dash` `Angular`
-`Streamlit` `Shiny`
+`Multi-omics` | `Imaging`<br>
+`EHR` | `Clinical data`<br>
+`R` | `Python` | `SQL`<br>
+`Nextflow` | `Git` | `AWS Cloud`<br>
+`ML` | `Statistical modelling`<br>
+`Plotly/Dash` | `Angular`<br>
+`Streamlit` | `Shiny`
