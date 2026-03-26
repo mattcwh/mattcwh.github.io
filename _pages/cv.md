@@ -1,10 +1,12 @@
 ---
 permalink: /cv/
-title: "Matthew Chung, PhD"
+title: "curriculum vitae"
 layout: archive
 author_profile: true
 toc: true
 ---
+
+# Matthew Chung, PhD
 
 ## Experience
 
