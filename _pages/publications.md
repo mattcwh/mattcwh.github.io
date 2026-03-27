@@ -19,10 +19,10 @@ author_profile: true
 | 2016 | [Structural dynamics of amyloid-β aggregation in Alzheimer’s disease: computational and experimental approaches.](https://www.jyi.org/2016-december/2017/2/13/structural-dynamics-of-amyloid-aggregation-in-alzheimers-disease-computational-and-experimental-approaches) | JYI |
 
 
-<sup>###### 2025</sup> <br> ### [Feeding the cosmos: tackling personalized space nutrition and the leaky gut challenge.](https://www.nature.com/articles/s41526-025-00490-z) <br> <sup>###### Npj Microgravity</sup>
+<h6>2025</h6> <br> <h3>[Feeding the cosmos: tackling personalized space nutrition and the leaky gut challenge.](https://www.nature.com/articles/s41526-025-00490-z)</h3> <br> <h6>###### Npj Microgravity</h6>
 
 <hr>
 
-<sup>2023</sup> <br> [Macrophage Class A Scavenger Receptors - A Functional Perspective.](https://www.sciencedirect.com/science/article/abs/pii/B9780128216187002558) <br> <sup>Encyclopedia of Cell Biology</sup>
+<h6>2023</h6> <br> <h3>[Macrophage Class A Scavenger Receptors - A Functional Perspective.](https://www.sciencedirect.com/science/article/abs/pii/B9780128216187002558)</h3> <br> <h6>Encyclopedia of Cell Biology</h6>
 
 <hr>
