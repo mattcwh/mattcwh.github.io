@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-# <span style="color:#ce983b; font-family: "Playfair Display", serif;">Matthew Chung, PhD</span>
+# <span style="color:#ce983b; font-family: 'Playfair Display', serif;">Matthew Chung, PhD</span>
 
 ## Summary
 AI/ML bioinformatician and PhD immunologist with experience applying statistical and machine learning methods to health and life sciences data, using analytical, clinical and product insight to build data products, inform decision-making and improve outcomes for patients.
