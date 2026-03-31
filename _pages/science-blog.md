@@ -1,6 +1,7 @@
 ---
 title: "science blog"
-layout: categories
+layout: category
 permalink: /science-blog/
+taxonomy: science
 author_profile: true
 ---
