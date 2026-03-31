@@ -1,10 +1,9 @@
 ---
-title: "Post: Standard"
+title: "The Missing Biology"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
-tags:
   - science
+tags:
   - biology
   - machine learning
 ---
