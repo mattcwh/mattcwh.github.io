@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-# <span style="color:#1d3557;">Matthew Chung, PhD</span>
+# <span style="color:#ce983b; font-family: Georgia, serif;">Matthew Chung, PhD</span>
 
 ## Summary
 AI/ML bioinformatician and PhD immunologist with experience applying statistical and machine learning methods to health and life sciences data, using analytical, clinical and product insight to build data products, inform decision-making and improve outcomes for patients.
@@ -31,10 +31,10 @@ AI/ML bioinformatician and PhD immunologist with experience applying statistical
 ## Awards
 
 |:--------|:--------|
-| 2022  | **Stem Cell SpaceShot Grant ($100k)** [Link](https://treefrog.fr/3-phd-students-from-kings-college-london-win-the-100000-stem-cell-spaceshot-grant/)<br><sub>**TreeFrog Therapeutics**<br>Award of $100K; Project: “Reprogramming hiPSC-derived macrophages to repair neuronal injury”</sub>   |
+| 2022  | **Stem Cell SpaceShot Grant** [Link](https://treefrog.fr/3-phd-students-from-kings-college-london-win-the-100000-stem-cell-spaceshot-grant/)<br><sub>**TreeFrog Therapeutics**<br>Award of $100K; Project: “Reprogramming hiPSC-derived macrophages to repair neuronal injury”</sub>   |
 | 2023  | **Business pitch competition winning team**<br><sub>**London Business School**<br>Selected to pitch our business idea to a panel of Angel and VC Investors (success rate ~7%)</sub>   |
 | 2023  | **DMM Conference Travel Grant**<br><sub>**The Company of Biologists**</sub>   |
-| 2019  | **Wellcome Trust PhD Scholarhip** (£200k)<br><sub>**Wellcome Trust**<br>Scholarship of ~£200K covering tuition, stipend and research funding (acceptance rate ~2%)</sub>   |
+| 2019  | **Wellcome Trust PhD Scholarhip**<br><sub>**Wellcome Trust**<br>Scholarship of ~£200K covering tuition, stipend and research funding (acceptance rate ~2%)</sub>   |
 
 ## Skills
 `Multi-omics` | `Imaging`<br>
